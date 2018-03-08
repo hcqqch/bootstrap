@@ -5,7 +5,7 @@ module.exports = {
       {
         loose: true,
         modules: false,
-        exclude: ['transform-typeof-symbol']
+        exclude: ['transform-typeof-symbol' ]
       }
     ]
   ],
